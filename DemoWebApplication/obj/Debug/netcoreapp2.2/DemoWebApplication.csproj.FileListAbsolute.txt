@@ -1,0 +1,34 @@
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\DemoWebApplication\bin\Debug\netcoreapp2.2\Assets\check.png
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\DemoWebApplication\bin\Debug\netcoreapp2.2\Assets\Demo1.PNG
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\DemoWebApplication\bin\Debug\netcoreapp2.2\Assets\illegal.png
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\DemoWebApplication\bin\Debug\netcoreapp2.2\DemoWebApplication.deps.json
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\DemoWebApplication\bin\Debug\netcoreapp2.2\DemoWebApplication.runtimeconfig.json
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\DemoWebApplication\bin\Debug\netcoreapp2.2\DemoWebApplication.runtimeconfig.dev.json
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\DemoWebApplication\bin\Debug\netcoreapp2.2\DemoWebApplication.dll
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\DemoWebApplication\bin\Debug\netcoreapp2.2\DemoWebApplication.pdb
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\DemoWebApplication\bin\Debug\netcoreapp2.2\Utilities.dll
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\DemoWebApplication\bin\Debug\netcoreapp2.2\Utilities.pdb
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\DemoWebApplication\obj\Debug\netcoreapp2.2\DemoWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\DemoWebApplication\obj\Debug\netcoreapp2.2\DemoWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\DemoWebApplication\obj\Debug\netcoreapp2.2\DemoWebApplication.AssemblyInfoInputs.cache
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\DemoWebApplication\obj\Debug\netcoreapp2.2\DemoWebApplication.AssemblyInfo.cs
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\DemoWebApplication\obj\Debug\netcoreapp2.2\DemoWebApplication.csproj.CopyComplete
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\DemoWebApplication\obj\Debug\netcoreapp2.2\DemoWebApplication.dll
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\DemoWebApplication\obj\Debug\netcoreapp2.2\DemoWebApplication.pdb
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos - Public\DemoWebApplication\bin\Debug\netcoreapp2.2\Assets\check.png
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos - Public\DemoWebApplication\bin\Debug\netcoreapp2.2\Assets\Demo1.PNG
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos - Public\DemoWebApplication\bin\Debug\netcoreapp2.2\Assets\illegal.png
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos - Public\DemoWebApplication\bin\Debug\netcoreapp2.2\DemoWebApplication.deps.json
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos - Public\DemoWebApplication\bin\Debug\netcoreapp2.2\DemoWebApplication.runtimeconfig.json
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos - Public\DemoWebApplication\bin\Debug\netcoreapp2.2\DemoWebApplication.runtimeconfig.dev.json
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos - Public\DemoWebApplication\bin\Debug\netcoreapp2.2\DemoWebApplication.dll
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos - Public\DemoWebApplication\bin\Debug\netcoreapp2.2\DemoWebApplication.pdb
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos - Public\DemoWebApplication\bin\Debug\netcoreapp2.2\Utilities.dll
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos - Public\DemoWebApplication\bin\Debug\netcoreapp2.2\Utilities.pdb
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos - Public\DemoWebApplication\obj\Debug\netcoreapp2.2\DemoWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos - Public\DemoWebApplication\obj\Debug\netcoreapp2.2\DemoWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos - Public\DemoWebApplication\obj\Debug\netcoreapp2.2\DemoWebApplication.AssemblyInfoInputs.cache
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos - Public\DemoWebApplication\obj\Debug\netcoreapp2.2\DemoWebApplication.AssemblyInfo.cs
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos - Public\DemoWebApplication\obj\Debug\netcoreapp2.2\DemoWebApplication.csproj.CopyComplete
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos - Public\DemoWebApplication\obj\Debug\netcoreapp2.2\DemoWebApplication.dll
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos - Public\DemoWebApplication\obj\Debug\netcoreapp2.2\DemoWebApplication.pdb

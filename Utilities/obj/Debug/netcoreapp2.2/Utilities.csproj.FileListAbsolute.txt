@@ -1,0 +1,18 @@
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\Utilities\bin\Debug\netcoreapp2.2\Utilities.deps.json
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\Utilities\bin\Debug\netcoreapp2.2\Utilities.dll
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\Utilities\bin\Debug\netcoreapp2.2\Utilities.pdb
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\Utilities\obj\Debug\netcoreapp2.2\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\Utilities\obj\Debug\netcoreapp2.2\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\Utilities\obj\Debug\netcoreapp2.2\Utilities.AssemblyInfoInputs.cache
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\Utilities\obj\Debug\netcoreapp2.2\Utilities.AssemblyInfo.cs
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\Utilities\obj\Debug\netcoreapp2.2\Utilities.dll
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\Utilities\obj\Debug\netcoreapp2.2\Utilities.pdb
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos - Public\Utilities\bin\Debug\netcoreapp2.2\Utilities.deps.json
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos - Public\Utilities\bin\Debug\netcoreapp2.2\Utilities.dll
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos - Public\Utilities\bin\Debug\netcoreapp2.2\Utilities.pdb
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos - Public\Utilities\obj\Debug\netcoreapp2.2\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos - Public\Utilities\obj\Debug\netcoreapp2.2\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos - Public\Utilities\obj\Debug\netcoreapp2.2\Utilities.AssemblyInfoInputs.cache
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos - Public\Utilities\obj\Debug\netcoreapp2.2\Utilities.AssemblyInfo.cs
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos - Public\Utilities\obj\Debug\netcoreapp2.2\Utilities.dll
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos - Public\Utilities\obj\Debug\netcoreapp2.2\Utilities.pdb

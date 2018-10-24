@@ -1,0 +1,14 @@
+C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\DemoWebApplication
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=DemoWebApplication
+--content-root=C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\DemoWebApplication
+--file=C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\DemoWebApplication\Pages\Demo1.cshtml
+--file=C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\DemoWebApplication\Pages\Demo2.cshtml
+--file=C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\DemoWebApplication\Pages\Demo3.cshtml
+--file=C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\DemoWebApplication\Pages\Demo4.cshtml
+--file=C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\DemoWebApplication\Pages\Error.cshtml
+--file=C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\DemoWebApplication\Pages\Index.cshtml
+--file=C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\DemoWebApplication\Pages\_Layout.cshtml
+--file=C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\DemoWebApplication\Pages\_ValidationScriptsPartial.cshtml
+--file=C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\DemoWebApplication\Pages\_ViewImports.cshtml
+--file=C:\Users\jolorenz\source\repos\Dynamics 365 integration demos\DemoWebApplication\Pages\_ViewStart.cshtml
